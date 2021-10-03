@@ -6,7 +6,7 @@ import Main from '../components/Main'
 
 export default function Home() {
   return (
-    <div className="">
+    <div className=" bg-green-50">
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
